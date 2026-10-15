@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 1 | Definește produsul inițial | [lab-1](./lab-1/) |
 | 2 | Cuantifică citirile Dashboard-ului | [lab-2](./lab-2/) |
-| 3 | — | lab-3 |
+| 3 | Desenează limita Dashboard-ului | [lab-3](./lab-3/) |
 | 4 | — | lab-4 |
 | 5 | — | lab-5 |
 | 6 | — | lab-6 |
